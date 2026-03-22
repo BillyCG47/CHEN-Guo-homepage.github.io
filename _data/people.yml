@@ -7,7 +7,7 @@ profx:
     role: faculty
     image: /CHEN-Guo-homepage.github.io/img/people/hang.jpg
     bio: 诺贝尔奖获得者  Nobel Price Winner
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    webpage: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1"
 
 scott:
     display_name: "Scott Summers"
@@ -27,14 +27,16 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "艾萨克·牛顿 Isaac Newton"
     role: grad
     image: /CHEN-Guo-homepage.github.io/img/people/bizhu.jpg
+    webpage: "https://en.wikipedia.org/wiki/Isaac_Newton"
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "阿尔伯特·爱因斯坦 Albert Einstein"
     role: grad
     image: /CHEN-Guo-homepage.github.io/img/people/kedeng.jpg
+    webpage: "https://en.wikipedia.org/wiki/Albert_Einstein"
 
 storm:
     display_name: "虚位以待  We need you!"
@@ -50,36 +52,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "埃隆·马斯克 Elon Musk "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "拉里·佩奇 Larry Page"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "谢尔盖·布林 Sergey Brin"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "杰夫·贝索斯 Jeff Bezos"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "马克·扎克伯格 Mark Zuckerberg"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "拉里·埃里森 Larry Ellison"
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: "黄仁勋 Jensen Huang"
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "沃伦·巴菲特 Warren Buffett"
     role: collab
     
 
