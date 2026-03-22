@@ -12,7 +12,7 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 教师 Faculty
+    name: 教师 Professor
   - key: grad
     name: 工人 Workers
   - key: ugrad
