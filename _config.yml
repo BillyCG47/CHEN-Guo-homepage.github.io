@@ -14,7 +14,7 @@ roles:
   - key: faculty
     name: 教师 Faculty
   - key: grad
-    name: 研究生 Graduate Students
+    name: 工人 Workers
   - key: ugrad
     name: 本科生 Undergraduate Students
   - key: collab
@@ -35,8 +35,8 @@ collections:
 # Navigation bar links.
 navigation:
   - title: 主页 Home
-    link: /
+    link: /https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1
   - title: 科研 Research
-    link: /research.html
+    link: /https://www.sciencedirect.com
   - title: 论文 Publications
-    link: /publications.html
+    link: /https://www.nature.com
